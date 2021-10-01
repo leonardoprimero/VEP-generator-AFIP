@@ -97,7 +97,7 @@ driver.find_element(By.XPATH, '//input[@title="Siguiente"]').click()
 sleep(5)
 
 
-## Acá elejimos en donde desea realizar el pago
+## Acá elejimos en donde desea realizar el pago  ojo al ver si coincide
 
 # pagar   el primero
 # element
