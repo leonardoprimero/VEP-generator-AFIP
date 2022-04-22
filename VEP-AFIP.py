@@ -174,6 +174,6 @@ sleep(5)
 print('EL PROGRAMA HA FINALIZADO POR AHORA')
 
 
-###  EXPORTAR DETALLE A PDF.
+###  EXPORTAR DETALLE A PDF..
 
 # <i class="fa fa-file-pdf-o"></i>
